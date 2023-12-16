@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Chest",
+    "img": "assets/images/C.png"
+  },
+  {
+    "title": "Back",
+    "img": "assets/images/B.png"
+  },
+  {
+    "title": "Legs",
+    "img": "assets/images/Legs.png"
+  },
+  {
+    "title": "Glutes",
+    "img": "assets/images/Glutes.png"
+  },
+  {
+    "title": "Arms",
+    "img": "assets/images/Arms.jpg"
+  }
+]
